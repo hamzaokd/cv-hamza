@@ -1,0 +1,1529 @@
+This is LuaHBTeX, Version 1.14.0 (MiKTeX 22.1) (format=lualatex 2022.5.14)  23 MAR 2023 03:50
+ restricted system commands enabled.
+ file:line:error style messages enabled.
+**"c:/Users/HAMZA OUKADDI/Documents/git/cv-hamza/cv-hamza/examples/Hamza-Oukadd
+i_CV_Fr.tex"
+
+("c:/Users/HAMZA OUKADDI/Documents/git/cv-hamza/cv-hamza/examples/Hamza-Oukaddi
+_CV_Fr.tex"
+LaTeX2e <2021-11-15> patch level 1
+Lua module: luaotfload 2021-05-21 3.18 Lua based OpenType font support
+Lua module: lualibs 2021-05-20 2.74 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2021-05-20 2.74 ConTeXt Lua libraries -- extended c
+ollection.
+luaotfload | conf : Root cache directory is "C:/Users/HAMZA OUKADDI/AppData/Loca
+l/MiKTeX/luatex-cache/generic/names".
+luaotfload | init : Loading fontloader "fontloader-2021-05-20.lua" from kpse-res
+olved path "C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/luatex/luao
+tfload/fontloader-2021-05-20.lua".
+Lua-only attribute luaotfload@noligature = 1
+Lua-only attribute luaotfload@syllabe = 2
+luaotfload | init : Context OpenType loader version 3.116
+Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
+Inserting `luaotfload.glyph_stream' at position 1 in `glyph_stream_provider'.
+Inserting `luaotfload.define_font' at position 1 in `define_font'.
+Lua-only attribute luaotfload_color_attribute = 3
+luaotfload | conf : Root cache directory is "C:/Users/HAMZA OUKADDI/AppData/Loca
+l/MiKTeX/luatex-cache/generic/names".
+Inserting `luaotfload.harf.strip_prefix' at position 1 in `find_opentype_file'.
+Inserting `luaotfload.harf.strip_prefix' at position 1 in `find_truetype_file'.
+Inserting `luaotfload.harf.finalize_vlist' at position 1 in `post_linebreak_filt
+er'.
+Inserting `luaotfload.harf.finalize_hlist' at position 2 in `hpack_filter'.
+Inserting `luaotfload.cleanup_files' at position 1 in `wrapup_run'.
+Inserting `luaotfload.harf.finalize_unicode' at position 1 in `finish_pdffile'.
+Inserting `luaotfload.glyphinfo' at position 1 in `glyph_info'.
+Lua-only attribute luaotfload.letterspace_done = 4
+Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_
+font'.
+Inserting `luaotfload.aux.set_font_index' at position 2 in `luaotfload.patch_fon
+t'.
+Inserting `luaotfload.aux.patch_cambria_domh' at position 3 in `luaotfload.patch
+_font'.
+Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_fon
+t_unsafe'.
+Inserting `luaotfload.aux.set_capheight' at position 4 in `luaotfload.patch_font
+'.
+Inserting `luaotfload.aux.set_xheight' at position 5 in `luaotfload.patch_font'.
+Inserting `luaotfload.rewrite_fontname' at position 6 in `luaotfload.patch_font'
+. L3 programming layer <2022-01-21>
+Inserting `tracingstacklevels' at position 1 in `input_level_string'. (./hamza-
+cv.cls
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/base/article.c
+ls"
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/base/size10.cl
+o"
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+luaotfload | db : Font names database loaded from C:/Users/HAMZA OUKADDI/AppData
+/Local/MiKTeX/luatex-cache/generic/names/luaotfload-names.luc)
+\c@part=\count183
+\c@section=\count184
+\c@subsection=\count185
+\c@subsubsection=\count186
+\c@paragraph=\count187
+\c@subparagraph=\count188
+\c@figure=\count189
+\c@table=\count190
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen137
+)
+Document Class: hamza-cv 2019/07/31 Custom CV class
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fonts
+pec.sty"
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/l3packages/xpa
+rse/xparse.sty"
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/l3kernel/expl3
+.sty"
+Package: expl3 2022-01-21 L3 programming layer (loader) 
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3ba
+ckend-luatex.def"
+File: l3backend-luatex.def 2022-01-12 L3 backend support: PDF output (LuaTeX)
+\l__color_backend_stack_int=\count191
+\l__pdf_internal_box=\box50
+))
+Package: xparse 2022-01-12 L3 Experimental document command parser
+)
+Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+Lua module: fontspec 2022/01/15 2.8a Font selection for XeLaTeX and LuaLaTeX
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fonts
+pec-luatex.sty"
+Package: fontspec-luatex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaT
+eX
+\l__fontspec_script_int=\count192
+\l__fontspec_language_int=\count193
+\l__fontspec_strnum_int=\count194
+\l__fontspec_tmp_int=\count195
+\l__fontspec_tmpa_int=\count196
+\l__fontspec_tmpb_int=\count197
+\l__fontspec_tmpc_int=\count198
+\l__fontspec_em_int=\count199
+\l__fontspec_emdef_int=\count266
+\l__fontspec_strong_int=\count267
+\l__fontspec_strongdef_int=\count268
+\l__fontspec_tmpa_dim=\dimen138
+\l__fontspec_tmpb_dim=\dimen139
+\l__fontspec_tmpc_dim=\dimen140
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/base/fontenc.s
+ty"
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fonts
+pec.cfg")))
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/clearsans/Clea
+rSans.sty"
+Package: ClearSans 2022/09/15 (Bob Tennent) Supports Clear-Sans fonts for all L
+aTeX engines.
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/iftex/ifxete
+x.sty"
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/iftex/iftex.
+sty"
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/iftex/ifluat
+ex.sty"
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyva
+l.sty"
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/xkeyval/xkey
+val.tex"
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/xkeyval/xkvu
+tils.tex"
+\XKV@toks=\toks16
+\XKV@tempa@toks=\toks17
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/xkeyval/keyv
+al.tex"))
+\XKV@depth=\count269
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/base/textcomp.
+sty"
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+luaotfload | aux : font no 19 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 20 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 21 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 22 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 19 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 20 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 21 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 22 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 25 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 20 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 22 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 28 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 20 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 22 (nil) does not define feature smcp for script latn
+ with language dflt)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/fontawesome/fo
+ntawesome.sty"
+Package: fontawesome 2016/05/15 v4.6.3.1 font awesome icons
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/fontawesome/fo
+ntawesomesymbols-generic.tex")
+luaotfload | cache : Lookup cache loaded from C:/Users/HAMZA OUKADDI/AppData/Loc
+al/MiKTeX/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
+luaotfload | aux : font no 30 (nil) defines no feature for script latn
+luaotfload | aux : font no 30 (nil) defines no feature for script dflt
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/fontawesome/fo
+ntawesomesymbols-xeluatex.tex"))
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/ragged2e/ragge
+d2e.sty"
+Package: ragged2e 2021/12/15 v3.1 ragged2e Package
+\CenteringLeftskip=\skip49
+\RaggedLeftLeftskip=\skip50
+\RaggedRightLeftskip=\skip51
+\CenteringRightskip=\skip52
+\RaggedLeftRightskip=\skip53
+\RaggedRightRightskip=\skip54
+\CenteringParfillskip=\skip55
+\RaggedLeftParfillskip=\skip56
+\RaggedRightParfillskip=\skip57
+\JustifyingParfillskip=\skip58
+\CenteringParindent=\skip59
+\RaggedLeftParindent=\skip60
+\RaggedRightParindent=\skip61
+\JustifyingParindent=\skip62
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/parskip/parski
+p.sty"
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/kvoptions/kvop
+tions.sty"
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/ltxcmds/ltxc
+mds.sty"
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/kvsetkeys/kv
+setkeys.sty"
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/etoolbox/etool
+box.sty"
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count270
+))
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/hyper
+ref.sty"
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pdftexcmds/p
+dftexcmds.sty"
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/infwarerr/in
+fwarerr.sty"
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+\pdftexcmds@toks=\toks18
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/kvdefinekeys
+/kvdefinekeys.sty"
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pdfescape/pd
+fescape.sty"
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/hycolor/hycolo
+r.sty"
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/letltxmacro/le
+tltxmacro.sty"
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/auxhook/auxhoo
+k.sty"
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen141
+\Hy@linkcounter=\count271
+\Hy@pagecounter=\count272
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/pd1en
+c.def"
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/hyper
+ref-langpatches.def"
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
+nguages
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/intcalc/intc
+alc.sty"
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/etexcmds/ete
+xcmds.sty"
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count273
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/puenc
+.def"
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count274
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty"
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen142
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/bitset/bitse
+t.sty"
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/bigintcalc/b
+igintcalc.sty"
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count275
+\Field@Width=\dimen143
+\Fld@charsize=\dimen144
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring OFF on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/base/atbegshi-
+ltx.sty"
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count276
+\c@Item=\count277
+\c@Hfootnote=\count278
+)
+Package hyperref Info: Driver (autodetected): hluatex.
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/hluat
+ex.def"
+File: hluatex.def 2021-06-07 v7.00m Hyperref driver for luaTeX
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/stringenc/st
+ringenc.sty"
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/base/atveryend
+-ltx.sty"
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count279
+\c@bookmark@seq@number=\count280
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck
+/rerunfilecheck.sty"
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/uniquecounte
+r/uniquecounter.sty"
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip63
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/textpos/textpo
+s.sty"
+Package: textpos 2022/07/23 v1.10.1
+Package textpos Info: choosing support for LaTeX3 on input line 60.
+\TP@textbox=\box51
+\TP@holdbox=\box52
+\TPHorizModule=\dimen145
+\TPVertModule=\dimen146
+\TP@margin=\dimen147
+\TP@absmargin=\dimen148
+
+Grid set 16 x 16 = 38.39343pt x 49.68562pt
+\TPboxrulesize=\dimen149
+\TP@ox=\dimen150
+\TP@oy=\dimen151
+\TP@tbargs=\toks19
+TextBlockOrigin set to 0pt x 0pt
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/title
+sec.sty"
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box53
+\beforetitleunit=\skip64
+\aftertitleunit=\skip65
+\ttl@plus=\dimen152
+\ttl@minus=\dimen153
+\ttl@toksa=\toks20
+\titlewidth=\dimen154
+\titlewidthlast=\dimen155
+\titlewidthfirst=\dimen156
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/pgf/frontendla
+yer/tikz.sty"
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/pgf/basiclayer
+/pgf.sty"
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/pgf/utilities/
+pgfrcs.sty"
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilitie
+s/pgfutil-common.tex"
+\pgfutil@everybye=\toks21
+\pgfutil@tempdima=\dimen157
+\pgfutil@tempdimb=\dimen158
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilitie
+s/pgfutil-common-lists.tex"))
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilitie
+s/pgfutil-latex.def"
+\pgfutil@abb=\box54
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilitie
+s/pgfrcs.code.tex"
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/pgf.revi
+sion.tex")
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/pgf/basiclayer
+/pgfcore.sty"
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/graphics/graph
+icx.sty"
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/graphics/graph
+ics.sty"
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/graphics/trig.
+sty"
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/g
+raphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: luatex.def on input line 107.
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/graphics-def/l
+uatex.def"
+File: luatex.def 2021/06/01 v1.2c Graphics/color driver for luatex
+))
+\Gin@req@height=\dimen159
+\Gin@req@width=\dimen160
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/pgf/systemlaye
+r/pgfsys.sty"
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemla
+yer/pgfsys.code.tex"
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilitie
+s/pgfkeys.code.tex"
+\pgfkeys@pathtoks=\toks22
+\pgfkeys@temptoks=\toks23
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilitie
+s/pgfkeysfiltered.code.tex"
+\pgfkeys@tmptoks=\toks24
+))
+\pgf@x=\dimen161
+\pgf@y=\dimen162
+\pgf@xa=\dimen163
+\pgf@ya=\dimen164
+\pgf@xb=\dimen165
+\pgf@yb=\dimen166
+\pgf@xc=\dimen167
+\pgf@yc=\dimen168
+\pgf@xd=\dimen169
+\pgf@yd=\dimen170
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count281
+\c@pgf@countb=\count282
+\c@pgf@countc=\count283
+\c@pgf@countd=\count284
+\t@pgf@toka=\toks25
+\t@pgf@tokb=\toks26
+\t@pgf@tokc=\toks27
+\pgf@sys@id@count=\count285
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemla
+yer/pgf.cfg"
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-luatex.def
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemla
+yer/pgfsys-luatex.def"
+File: pgfsys-luatex.def 2021/05/15 v3.1.9a (3.1.9a)
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemla
+yer/pgfsys-common-pdf.def"
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+)))
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemla
+yer/pgfsyssoftpath.code.tex"
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count286
+\pgfsyssoftpath@bigbuffer@items=\count287
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemla
+yer/pgfsysprotocol.code.tex"
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.
+sty"
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/c
+olor.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: luatex.def on input line 227.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclay
+er/pgfcore.code.tex"
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgf
+math.code.tex"
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgf
+mathcalc.code.tex"
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgf
+mathutil.code.tex")
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgf
+mathparser.code.tex"
+\pgfmath@dimen=\dimen171
+\pgfmath@count=\count288
+\pgfmath@box=\box55
+\pgfmath@toks=\toks28
+\pgfmath@stack@operand=\toks29
+\pgfmath@stack@operation=\toks30
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgf
+mathfunctions.code.tex"
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgf
+mathfunctions.basic.code.tex")
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgf
+mathfunctions.trigonometric.code.tex")
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgf
+mathfunctions.random.code.tex")
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgf
+mathfunctions.comparison.code.tex")
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgf
+mathfunctions.base.code.tex")
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgf
+mathfunctions.round.code.tex")
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgf
+mathfunctions.misc.code.tex")
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgf
+mathfunctions.integerarithmetics.code.tex")))
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgf
+mathfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count289
+))
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgf
+int.code.tex")
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclay
+er/pgfcorepoints.code.tex"
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen172
+\pgf@picmaxx=\dimen173
+\pgf@picminy=\dimen174
+\pgf@picmaxy=\dimen175
+\pgf@pathminx=\dimen176
+\pgf@pathmaxx=\dimen177
+\pgf@pathminy=\dimen178
+\pgf@pathmaxy=\dimen179
+\pgf@xx=\dimen180
+\pgf@xy=\dimen181
+\pgf@yx=\dimen182
+\pgf@yy=\dimen183
+\pgf@zx=\dimen184
+\pgf@zy=\dimen185
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclay
+er/pgfcorepathconstruct.code.tex"
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen186
+\pgf@path@lasty=\dimen187
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclay
+er/pgfcorepathusage.code.tex"
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen188
+\pgf@shorten@start@additional=\dimen189
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclay
+er/pgfcorescopes.code.tex"
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box56
+\pgf@hbox=\box57
+\pgf@layerbox@main=\box58
+\pgf@picture@serial@count=\count290
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclay
+er/pgfcoregraphicstate.code.tex"
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen190
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclay
+er/pgfcoretransformations.code.tex"
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen191
+\pgf@pt@y=\dimen192
+\pgf@pt@temp=\dimen193
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclay
+er/pgfcorequick.code.tex"
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclay
+er/pgfcoreobjects.code.tex"
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclay
+er/pgfcorepathprocessing.code.tex"
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclay
+er/pgfcorearrows.code.tex"
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen194
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclay
+er/pgfcoreshade.code.tex"
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen195
+\pgf@sys@shading@range@num=\count291
+\pgf@shadingcount=\count292
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclay
+er/pgfcoreimage.code.tex"
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclay
+er/pgfcoreexternal.code.tex"
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box59
+))
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclay
+er/pgfcorelayers.code.tex"
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclay
+er/pgfcoretransparency.code.tex"
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclay
+er/pgfcorepatterns.code.tex"
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclay
+er/pgfcorerdf.code.tex"
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/modules/
+pgfmoduleshapes.code.tex"
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box60
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/modules/
+pgfmoduleplot.code.tex"
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/pgf/compatibil
+ity/pgfcomp-version-0-65.sty"
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen196
+\pgf@nodesepend=\dimen197
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/pgf/compatibil
+ity/pgfcomp-version-1-18.sty"
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+))
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/pgf/utilities/
+pgffor.sty"
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/pgf/utilities/
+pgfkeys.sty"
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilitie
+s/pgfkeys.code.tex"))
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/pgf/math/pgfma
+th.sty"
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgf
+math.code.tex"))
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilitie
+s/pgffor.code.tex"
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgf
+math.code.tex")
+\pgffor@iter=\dimen198
+\pgffor@skip=\dimen199
+\pgffor@stack=\toks31
+\pgffor@toks=\toks32
+))
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontend
+layer/tikz/tikz.code.tex"
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/librarie
+s/pgflibraryplothandlers.code.tex"
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count293
+\pgfplotmarksize=\dimen256
+)
+\tikz@lastx=\dimen257
+\tikz@lasty=\dimen258
+\tikz@lastxsaved=\dimen259
+\tikz@lastysaved=\dimen260
+\tikz@lastmovetox=\dimen261
+\tikz@lastmovetoy=\dimen262
+\tikzleveldistance=\dimen263
+\tikzsiblingdistance=\dimen264
+\tikz@figbox=\box61
+\tikz@figbox@bg=\box62
+\tikz@tempbox=\box63
+\tikz@tempbox@bg=\box64
+\tikztreelevel=\count294
+\tikznumberofchildren=\count295
+\tikznumberofcurrentchild=\count296
+\tikz@fig@count=\count297
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/modules/
+pgfmodulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count298
+\pgfmatrixcurrentcolumn=\count299
+\pgf@matrix@numberofcolumns=\count300
+)
+\tikz@expandcount=\count301
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontend
+layer/tikz/libraries/tikzlibrarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/multirow/multi
+row.sty"
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip66
+\multirow@cntb=\count302
+\multirow@dima=\skip67
+\bigstrutjot=\dimen265
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/xargs/xargs.st
+y"
+Package: xargs 2008/03/22 v1.1  extended macro definitions  (mpg)
+\xargs@max=\count303
+\xargs@toksa=\toks33
+\xargs@toksb=\toks34
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/tcolorbox/tcol
+orbox.sty"
+Package: tcolorbox 2022/01/07 version 5.0.2 text color boxes
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/tools/verbatim
+.sty"
+Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks35
+\verbatim@line=\toks36
+\verbatim@in@stream=\read3
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/environ/enviro
+n.sty"
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/trimspaces/tri
+mspaces.sty"
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)
+\@envbody=\toks37
+)
+\tcb@titlebox=\box65
+\tcb@upperbox=\box66
+\tcb@lowerbox=\box67
+\tcb@phantombox=\box68
+\c@tcbbreakpart=\count304
+\c@tcblayer=\count305
+\c@tcolorbox@number=\count306
+\tcb@temp=\box69
+\tcb@temp=\box70
+\tcb@temp=\box71
+\tcb@temp=\box72
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/enumitem/enumi
+tem.sty"
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\enitkv@toks@=\toks38
+\labelindent=\skip68
+\enit@outerparindent=\dimen266
+\enit@toks=\toks39
+\enit@inbox=\box73
+\enit@count@id=\count307
+\enitdp@description=\count308
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/base/ifthen.st
+y"
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\imagewidth=\skip69
+\imagescale=\skip70
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/tcolorbox/tcbr
+aster.code.tex"
+Library (tcolorbox): 'tcbraster.code.tex' version '5.0.2'
+\c@tcbrastercolumn=\count309
+\c@tcbrasterrow=\count310
+\c@tcbrasternum=\count311
+\c@tcbraster=\count312
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/tcolorbox/tcbs
+kins.code.tex"
+Library (tcolorbox): 'tcbskins.code.tex' version '5.0.2'
+\tcb@waterbox=\box74
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/tcolorbox/tcbs
+kinsjigsaw.code.tex"
+Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '5.0.2'
+))
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/tcolorbox/tcbb
+reakable.code.tex"
+Library (tcolorbox): 'tcbbreakable.code.tex' version '5.0.2'
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/oberdiek/pdf
+col.sty"
+Package: pdfcol 2019/12/29 v1.6 Handle new color stacks for pdfTeX (HO)
+)
+Package pdfcol Info: New color stack `tcb@breakable' = 1 on input line 23.
+\tcb@testbox=\box75
+\tcb@totalupperbox=\box76
+\tcb@totallowerbox=\box77
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/tcolorbox/tcbh
+ooks.code.tex"
+Library (tcolorbox): 'tcbhooks.code.tex' version '5.0.2'
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/tcolorbox/tcbt
+heorems.code.tex"
+Library (tcolorbox): 'tcbtheorems.code.tex' version '5.0.2'
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amsmat
+h.sty"
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip71
+
+For additional information on amsmath, use the `?' option.
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amstex
+t.sty"
+Package: amstext 2021/08/26 v2.01 AMS text
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amsgen
+.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks40
+\ex@=\dimen267
+))
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amsbsy
+.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen268
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amsopn
+.sty"
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count313
+LaTeX Info: Redefining \frac on input line 236.
+\uproot@=\count314
+\leftroot@=\count315
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count316
+\DOTSCASE@=\count317
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box78
+\strutbox@=\box79
+\big@size=\dimen269
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count318
+\c@MaxMatrixCols=\count319
+\dotsspace@=\muskip17
+\c@parentequation=\count320
+\dspbrk@lvl=\count321
+\tag@help=\toks41
+\row@=\count322
+\column@=\count323
+\maxfields@=\count324
+\andhelp@=\toks42
+\eqnshift@=\dimen270
+\alignsep@=\dimen271
+\tagshift@=\dimen272
+\tagwidth@=\dimen273
+\totwidth@=\dimen274
+\lineht@=\dimen275
+\@envbody=\toks43
+\multlinegap=\skip72
+\multlinetaggap=\skip73
+\mathdisplay@stack=\toks44
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+))
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/tcolorbox/tcbf
+itting.code.tex"
+Library (tcolorbox): 'tcbfitting.code.tex' version '5.0.2'
+\tcbfitdim=\dimen276
+\tcb@lowerfitdim=\dimen277
+\tcb@upperfitdim=\dimen278
+\tcb@cur@hbadness=\count325
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/tcolorbox/tcbx
+parse.code.tex"
+Library (tcolorbox): 'tcbxparse.code.tex' version '5.0.2'
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/tcolorbox/tcbl
+istingsutf8.code.tex"
+Library (tcolorbox): 'tcblistingsutf8.code.tex' version '5.0.2'
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/tcolorbox/tcbl
+istings.code.tex"
+Library (tcolorbox): 'tcblistings.code.tex' version '5.0.2'
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/listings/listi
+ngs.sty"
+\lst@mode=\count326
+\lst@gtempboxa=\box80
+\lst@token=\toks45
+\lst@length=\count327
+\lst@currlwidth=\dimen279
+\lst@column=\count328
+\lst@pos=\count329
+\lst@lostspace=\dimen280
+\lst@width=\dimen281
+\lst@newlines=\count330
+\lst@lineno=\count331
+\lst@maxwidth=\dimen282
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/listings/lstmi
+sc.sty"
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count332
+\lst@skipnumbers=\count333
+\lst@framebox=\box81
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/listings/listi
+ngs.cfg"
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/tcolorbox/tcbl
+istingscore.code.tex"
+Library (tcolorbox): 'tcblistingscore.code.tex' version '5.0.2'
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/tcolorbox/tcbp
+rocessing.code.tex"
+Library (tcolorbox): 'tcbprocessing.code.tex' version '5.0.2'
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/tools/shellesc
+.sty"
+Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+))
+\c@tcblisting=\count334
+))
+Package tcolorbox Info: Library `listingsutf8' is compatible with pdftex only. 
+Library `listings` is loaded instead. on input line 29.
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/tcolorbox/tcbe
+xternal.code.tex"
+Library (tcolorbox): 'tcbexternal.code.tex' version '5.0.2'
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/tcolorbox/tcbm
+agazine.code.tex"
+Library (tcolorbox): 'tcbmagazine.code.tex' version '5.0.2'
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/tcolorbox/tcbv
+ignette.code.tex"
+Library (tcolorbox): 'tcbvignette.code.tex' version '5.0.2'
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontend
+layer/tikz/libraries/tikzlibraryfadings.code.tex"
+File: tikzlibraryfadings.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/pgf/librarie
+s/pgflibraryfadings.code.tex"
+File: pgflibraryfadings.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/tcolorbox/tcbp
+oster.code.tex"
+Library (tcolorbox): 'tcbposter.code.tex' version '5.0.2'
+))
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/geometry/geome
+try.sty"
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/iftex/ifvtex
+.sty"
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count335
+\Gm@cntv=\count336
+\c@Gm@tempcnt=\count337
+\Gm@bindingoffset=\dimen283
+\Gm@wd@mp=\dimen284
+\Gm@odd@mp=\dimen285
+\Gm@even@mp=\dimen286
+\Gm@layoutwidth=\dimen287
+\Gm@layoutheight=\dimen288
+\Gm@layouthoffset=\dimen289
+\Gm@layoutvoffset=\dimen290
+\Gm@dimlist=\toks46
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/geometry/geome
+try.cfg"))
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/babel/babel.
+sty"
+Package: babel 2021/12/30 3.69 The Babel package
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/babel/luabab
+el.def"
+\bbl@readstream=\read4
+\l@afrikaans=\language2
+Package babel Info: Non-standard hyphenation setup on input line 118.
+\l@ancientgreek=\language3
+\l@armenian=\language4
+\l@assamese=\language5
+\l@basque=\language6
+\l@belarusian=\language7
+\l@bengali=\language8
+\l@bokmal=\language9
+\l@bulgarian=\language10
+\l@catalan=\language11
+\l@churchslavonic=\language12
+\l@classiclatin=\language13
+\l@coptic=\language14
+\l@croatian=\language15
+\l@czech=\language16
+\l@danish=\language17
+\l@dutch=\language18
+\l@esperanto=\language19
+\l@estonian=\language20
+\l@ethiopic=\language21
+\l@finnish=\language22
+\l@french=\language23
+\l@friulan=\language24
+\l@galician=\language25
+\l@georgian=\language26
+\l@german=\language27
+\l@greek=\language28
+\l@gujarati=\language29
+\l@hindi=\language30
+\l@hungarian=\language31
+\l@icelandic=\language32
+\l@indonesian=\language33
+\l@interlingua=\language34
+\l@irish=\language35
+\l@italian=\language36
+\l@kannada=\language37
+\l@kurmanji=\language38
+\l@latin=\language39
+\l@latvian=\language40
+\l@lithuanian=\language41
+\l@liturgicallatin=\language42
+\l@macedonian=\language43
+\l@malayalam=\language44
+\l@marathi=\language45
+\l@mongolian=\language46
+\l@mongolianlmc=\language47
+\l@monogreek=\language48
+\l@ngerman=\language49
+\l@nynorsk=\language50
+\l@occitan=\language51
+\l@oriya=\language52
+\l@pali=\language53
+\l@panjabi=\language54
+\l@piedmontese=\language55
+\l@polish=\language56
+\l@portuguese=\language57
+\l@romanian=\language58
+\l@romansh=\language59
+\l@russian=\language60
+\l@sanskrit=\language61
+\l@serbian=\language62
+\l@serbianc=\language63
+\l@slovak=\language64
+\l@slovenian=\language65
+\l@spanish=\language66
+\l@swedish=\language67
+\l@swissgerman=\language68
+\l@tamil=\language69
+\l@telugu=\language70
+\l@thai=\language71
+\l@turkish=\language72
+\l@turkmen=\language73
+\l@ukenglish=\language74
+\l@ukrainian=\language75
+\l@uppersorbian=\language76
+\l@usenglishmax=\language77
+\l@welsh=\language78
+\babelcatcodetablenum=\catcodetable12
+\bbl@pattcodes=\catcodetable13
+)
+\babel@savecnt=\count338
+\U@D=\dimen291
+\l@unhyphenated=\language79
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/babel/luabab
+el.def"
+\bbl@attr@locale=\attribute5
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/arabi/bblopts.
+cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/babel-french
+/french.ldf"
+Language: french 2023/01/02 v3.5p French support from the babel system
+Package babel Info: Hyphen rules for 'acadian' set to \l@french
+(babel)             (\language23). Reported on input line 91.
+Package babel Info: Hyphen rules for 'canadien' set to \l@french
+(babel)             (\language23). Reported on input line 92.
+\FB@nonchar=\count339
+\FB@spacing=\attribute6
+\FB@addDPspace=\attribute7
+\FB@addGUILspace=\attribute8
+\FB@ucsNBSP=\attribute9
+\FB@dialect=\attribute10
+Package french.ldf Info: No need for active punctuation characters
+(french.ldf)             with this version of LuaTeX!
+(french.ldf)             reported on input line 249.
+\FBguill@level=\count340
+\FBold@everypar=\toks47
+\FB@Mht=\dimen292
+\mc@charclass=\count341
+\mc@charfam=\count342
+\mc@charslot=\count343
+\std@mcc=\count344
+\dec@mcc=\count345
+Inserting `frenchb.french_punctuation' at position 1 in `kerning'.
+\listindentFB=\dimen293
+\descindentFB=\dimen294
+\labelindentFB=\dimen295
+\labelwidthFB=\dimen296
+\leftmarginFB=\dimen297
+\parindentFFN=\dimen298
+\FBfnindent=\dimen299
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/hyph-utf8/lo
+adhyph/loadhyph-fr.tex" UTF-8 French hyphenation patterns
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/hyph-utf8/pa
+tterns/tex/hyph-fr.tex")
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/hyph-utf8/pa
+tterns/quote/hyph-quote-fr.tex"))))
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/carlisle/scale
+fnt.sty")
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/luatex/luatexbase/lu
+atexbase.sty"
+Package: luatexbase 2015/10/04 v1.3 luatexbase interface to LuaTeX 
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/luatex/ctablestack/c
+tablestack.sty"
+Package: ctablestack 2015/10/01 v1.0 Catcode table stable support
+\@catcodetablestackcnt=\count346
+)
+\CatcodeTableOther=\catcodetable14
+\CatcodeTableExpl=\catcodetable15
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/microtype/micr
+otype.sty"
+Package: microtype 2021/12/10 v3.0b Micro-typographical refinements (RS)
+\MT@toks=\toks48
+\MT@count=\count347
+\MT@tempbox=\box82
+LaTeX Info: Redefining \leftprotrusion on input line 1010.
+LaTeX Info: Redefining \rightprotrusion on input line 1018.
+LaTeX Info: Redefining \textls on input line 1173.
+\MT@outer@kern=\dimen300
+LaTeX Info: Redefining \textmicrotypecontext on input line 1759.
+\MT@listname@count=\count348
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/microtype/micr
+otype-luatex.def"
+File: microtype-luatex.def 2021/12/10 v3.0b Definitions specific to luatex (RS)
+
+Lua module: microtype 2021/12/10 3.0b microtype module.
+Module microtype Info: overwriting function `keepligature' on input line 63
+LaTeX Info: Redefining \lsstyle on input line 685.
+LaTeX Info: Redefining \lslig on input line 685.
+\MT@outer@space=\skip74
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/microtype/micr
+otype.cfg"
+File: microtype.cfg 2021/12/10 v3.0b microtype main configuration file (RS)
+))
+LaTeX Font Info:    Font shape `TU/ClearSans(0)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 36.
+ (./Hamza-Oukaddi_CV_Fr.aux)
+\openout1 = Hamza-Oukaddi_CV_Fr.aux
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3
+6.
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/base/ts1cmr.fd
+"
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 36.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 36.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 36.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 36.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 36.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 36.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 36.
+LaTeX Font Info:    Redeclaring math accent \check on input line 36.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 36.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 36.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 36.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 36.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 36.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 36.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 36.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 36.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/ClearSans(0)/m/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 36.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/ClearSans(0)/b/n on input line 36.
+
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 36.
+Package hyperref Info: Link coloring OFF on input line 36.
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/namer
+ef.sty"
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refco
+unt.sty"
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/generic/gettitlestri
+ng/gettitlestring.sty"
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count349
+)
+LaTeX Info: Redefining \ref on input line 36.
+LaTeX Info: Redefining \pageref on input line 36.
+LaTeX Info: Redefining \nameref on input line 36.
+ (./Hamza-Oukaddi_CV_Fr.out) (./Hamza-Oukaddi_CV_Fr.out)
+\@outlinefile=\write4
+
+\openout4 = Hamza-Oukaddi_CV_Fr.out
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/su
+pp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count350
+\scratchdimen=\dimen301
+\scratchbox=\box83
+\nofMPsegments=\count351
+\nofMParguments=\count352
+\everyMPshowfont=\toks49
+\MPscratchCnt=\count353
+\MPscratchDim=\dimen302
+\MPnumerator=\count354
+\makeMPintoPDFobject=\count355
+\everyMPtoPDFconversion=\toks50
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/epstopdf-pkg/e
+pstopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/00miktex/epsto
+pdf-sys.cfg"
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+\c@lstlisting=\count356
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: luatex
+*geometry* verbose mode - [ preamble ] result:
+* driver: luatex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(0.0pt, 597.50787pt, 0.0pt)
+* v-part:(T,H,B)=(0.0pt, 845.04684pt, 0.0pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=597.50787pt
+* \textheight=845.04684pt
+* \oddsidemargin=-72.26999pt
+* \evensidemargin=-72.26999pt
+* \topmargin=-72.26999pt
+* \headheight=0.0pt
+* \headsep=0.0pt
+* \topskip=10.0pt
+* \footskip=0.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package french.ldf Info: Setting StandardItemizeEnv=true for
+(french.ldf)             compatibility with enumitem package,
+(french.ldf)             reported on input line 36.
+Package french.ldf Info: Setting StandardEnumerateEnv=true for
+(french.ldf)             compatibility with enumitem package,
+(french.ldf)             reported on input line 36.
+LaTeX Info: Redefining \up on input line 36.
+LaTeX Info: Redefining \microtypecontext on input line 36.
+Package microtype Info: Applying patch `item' on input line 36.
+Package microtype Info: Applying patch `toc' on input line 36.
+Package microtype Info: Applying patch `eqnum' on input line 36.
+Package microtype Info: Applying patch `footnote' on input line 36.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 36.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of spacing.
+Package microtype Info: No adjustment of kerning.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `ClearSans' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/microtype/mt-L
+atinModernRoman.cfg"
+File: mt-LatinModernRoman.cfg 2021/02/21 v1.1 microtype config. file: Latin Mod
+ern Roman (RS)
+)
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/microtype/mt-c
+mr.cfg"
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+LaTeX Font Info:    Font shape `TU/ClearSans(0)/m/n' will be
+(Font)              scaled to size 17.28pt on input line 37.
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/microtype/mt-T
+U-empty.cfg"
+File: mt-TU-empty.cfg 2021/06/22 v1.1 microtype config. file: fonts with nonsta
+ndard glyph set (RS)
+)
+LaTeX Font Info:    Font shape `TU/ClearSans(0)/m/n' will be
+(Font)              scaled to size 7.0pt on input line 37.
+LaTeX Font Info:    Font shape `TU/ClearSans(0)/m/n' will be
+(Font)              scaled to size 5.0pt on input line 37.
+LaTeX Font Info:    Font shape `TU/ClearSans(0)/m/n' will be
+(Font)              scaled to size 12.0pt on input line 37.
+LaTeX Font Info:    Font shape `TU/ClearSans(0)/m/n' will be
+(Font)              scaled to size 14.4pt on input line 37.
+LaTeX Font Info:    Font shape `TU/ClearSans(0)/m/n' will be
+(Font)              scaled to size 24.88pt on input line 37.
+LaTeX Font Info:    Font shape `TU/ClearSans(0)/b/n' will be
+(Font)              scaled to size 14.4pt on input line 37.
+LaTeX Font Info:    Font shape `TU/ClearSans(0)/b/n' will be
+(Font)              scaled to size 12.0pt on input line 37.
+<pictures/photo hamza oukaddi.jpg, id=46, 99.4917pt x 127.9179pt>
+File: pictures/photo hamza oukaddi.jpg Graphic file (type jpg)
+<use pictures/photo hamza oukaddi.jpg>
+Package luatex.def Info: pictures/photo hamza oukaddi.jpg  used on input line 3
+7.
+(luatex.def)             Requested size: 85.35826pt x 109.7535pt.
+LaTeX Font Info:    Font shape `TU/ClearSans(0)/b/n' will be
+(Font)              scaled to size 17.28pt on input line 47.
+LaTeX Font Info:    Font shape `TU/ClearSans(0)/b/n' will be
+(Font)              scaled to size 10.0pt on input line 104.
+LaTeX Font Info:    Font shape `TU/ClearSans(0)/b/n' will be
+(Font)              scaled to size 20.74pt on input line 104.
+LaTeX Font Info:    Font shape `TU/ClearSans(0)/m/n' will be
+(Font)              scaled to size 8.0pt on input line 107.
+LaTeX Font Info:    Font shape `TU/ClearSans(0)/m/it' will be
+(Font)              scaled to size 10.0pt on input line 107.
+LaTeX Font Info:    Font shape `TU/ClearSans(0)/b/it' will be
+(Font)              scaled to size 10.0pt on input line 107.
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--107
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--124
+[]\TU/ClearSans(0)/m/n/8 Juil. 2021
+ []
+
+
+Underfull \hbox (badness 1484) in paragraph at lines 126--126
+[]\TU/ClearSans(0)/m/n/8 Oct. 2021 -
+ []
+
+[1
+
+
+Missing character: There is no ; (U+003B) in font nullfont!
+{C:/Users/HAMZA OUKADDI/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}<./pict
+ures/photo hamza oukaddi.jpg>] (./Hamza-Oukaddi_CV_Fr.aux)
+Package rerunfilecheck Info: File `Hamza-Oukaddi_CV_Fr.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+)
+
+Here is how much of LuaTeX's memory you used:
+ 36134 strings out of 477803
+ 156364,1373583 words of node,token memory allocated
+ 1826 words of node memory still in use:
+   31 hlist, 2 vlist, 14 rule, 20 glue, 4 kern, 1 penalty, 2 glyph, 218 attribut
+e, 72 glue_spec, 95 attribute_list, 2 write, 24 pdf_literal, 24 pdf_colorstack n
+odes
+   avail lists: 1:9,2:8527,3:1691,4:381,5:756,6:199,7:11942,8:19,9:1540,10:12,11
+:861
+ 55517 multiletter control sequences out of 65536+600000
+ 62 fonts using 6215783 bytes
+ 115i,21n,111p,1273b,971s stack positions out of 5000i,500n,10000p,200000b,80000s
+<C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/fonts/truetype/intel/clear
+sans/ClearSans-BoldItalic.ttf><C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiK
+TeX/fonts/truetype/intel/clearsans/ClearSans-Italic.ttf><C:/Users/HAMZA OUKADDI/
+AppData/Local/Programs/MiKTeX/fonts/truetype/intel/clearsans/ClearSans-Bold.ttf>
+<C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/fonts/opentype/public/font
+awesome/fontawesome.otf><C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/fo
+nts/truetype/intel/clearsans/ClearSans-Regular.ttf>
+Output written on Hamza-Oukaddi_CV_Fr.pdf (1 page, 103334 bytes).
+
+PDF statistics: 91 PDF objects out of 1000 (max. 8388607)
+ 2 named destinations out of 1000 (max. 131072)
+ 256 words of extra memory for PDF output out of 10000 (max. 100000000)
+
