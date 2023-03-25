@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.14.0 (MiKTeX 22.1) (format=lualatex 2022.5.14)  23 MAR 2023 08:44
+This is LuaHBTeX, Version 1.14.0 (MiKTeX 22.1) (format=lualatex 2022.5.14)  25 MAR 2023 03:15
  restricted system commands enabled.
  file:line:error style messages enabled.
 **"c:/Users/HAMZA OUKADDI/Documents/git/cv-hamza/cv-hamza/examples/Hamza-Oukadd
@@ -1468,27 +1468,27 @@ Package luatex.def Info: pictures/photo hamza oukaddi.jpg  used on input line 3
 LaTeX Font Info:    Font shape `TU/ClearSans(0)/b/n' will be
 (Font)              scaled to size 17.28pt on input line 47.
 LaTeX Font Info:    Font shape `TU/ClearSans(0)/b/n' will be
-(Font)              scaled to size 10.0pt on input line 104.
+(Font)              scaled to size 10.0pt on input line 105.
 LaTeX Font Info:    Font shape `TU/ClearSans(0)/b/n' will be
-(Font)              scaled to size 20.74pt on input line 104.
+(Font)              scaled to size 20.74pt on input line 105.
 LaTeX Font Info:    Font shape `TU/ClearSans(0)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 107.
+(Font)              scaled to size 8.0pt on input line 108.
 LaTeX Font Info:    Font shape `TU/ClearSans(0)/m/it' will be
-(Font)              scaled to size 10.0pt on input line 107.
+(Font)              scaled to size 10.0pt on input line 108.
 LaTeX Font Info:    Font shape `TU/ClearSans(0)/b/it' will be
-(Font)              scaled to size 10.0pt on input line 107.
+(Font)              scaled to size 10.0pt on input line 108.
 
-Underfull \hbox (badness 10000) in paragraph at lines 107--107
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 124--124
+Underfull \hbox (badness 10000) in paragraph at lines 125--125
 []\TU/ClearSans(0)/m/n/8 Juil. 2021
  []
 
 
-Underfull \hbox (badness 1484) in paragraph at lines 126--126
+Underfull \hbox (badness 1484) in paragraph at lines 127--127
 []\TU/ClearSans(0)/m/n/8 Oct. 2021 -
  []
 
@@ -1503,15 +1503,15 @@ Package rerunfilecheck Info: File `Hamza-Oukaddi_CV_Fr.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 36134 strings out of 477803
+ 36133 strings out of 477803
  156364,1373583 words of node,token memory allocated
  1826 words of node memory still in use:
    31 hlist, 2 vlist, 14 rule, 20 glue, 4 kern, 1 penalty, 2 glyph, 218 attribut
 e, 72 glue_spec, 95 attribute_list, 2 write, 24 pdf_literal, 24 pdf_colorstack n
 odes
-   avail lists: 1:11,2:8527,3:1691,4:381,5:756,6:199,7:11930,8:19,9:1540,10:12,1
+   avail lists: 1:11,2:8535,3:1694,4:381,5:753,6:199,7:11939,8:19,9:1540,10:13,1
 1:858
- 55517 multiletter control sequences out of 65536+600000
+ 55516 multiletter control sequences out of 65536+600000
  62 fonts using 6215783 bytes
  115i,21n,111p,1273b,971s stack positions out of 5000i,500n,10000p,200000b,80000s
 <C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/fonts/truetype/intel/clear
@@ -1521,7 +1521,7 @@ AppData/Local/Programs/MiKTeX/fonts/truetype/intel/clearsans/ClearSans-Bold.ttf>
 <C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/fonts/opentype/public/font
 awesome/fontawesome.otf><C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/fo
 nts/truetype/intel/clearsans/ClearSans-Regular.ttf>
-Output written on Hamza-Oukaddi_CV_Fr.pdf (1 page, 103417 bytes).
+Output written on Hamza-Oukaddi_CV_Fr.pdf (1 page, 103437 bytes).
 
 PDF statistics: 91 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 131072)
