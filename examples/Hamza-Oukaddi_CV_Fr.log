@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.14.0 (MiKTeX 22.1) (format=lualatex 2022.5.14)  23 MAR 2023 03:50
+This is LuaHBTeX, Version 1.14.0 (MiKTeX 22.1) (format=lualatex 2022.5.14)  23 MAR 2023 08:44
  restricted system commands enabled.
  file:line:error style messages enabled.
 **"c:/Users/HAMZA OUKADDI/Documents/git/cv-hamza/cv-hamza/examples/Hamza-Oukadd
@@ -1509,8 +1509,8 @@ Here is how much of LuaTeX's memory you used:
    31 hlist, 2 vlist, 14 rule, 20 glue, 4 kern, 1 penalty, 2 glyph, 218 attribut
 e, 72 glue_spec, 95 attribute_list, 2 write, 24 pdf_literal, 24 pdf_colorstack n
 odes
-   avail lists: 1:9,2:8527,3:1691,4:381,5:756,6:199,7:11942,8:19,9:1540,10:12,11
-:861
+   avail lists: 1:11,2:8527,3:1691,4:381,5:756,6:199,7:11930,8:19,9:1540,10:12,1
+1:858
  55517 multiletter control sequences out of 65536+600000
  62 fonts using 6215783 bytes
  115i,21n,111p,1273b,971s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1521,7 +1521,7 @@ AppData/Local/Programs/MiKTeX/fonts/truetype/intel/clearsans/ClearSans-Bold.ttf>
 <C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/fonts/opentype/public/font
 awesome/fontawesome.otf><C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/fo
 nts/truetype/intel/clearsans/ClearSans-Regular.ttf>
-Output written on Hamza-Oukaddi_CV_Fr.pdf (1 page, 103334 bytes).
+Output written on Hamza-Oukaddi_CV_Fr.pdf (1 page, 103417 bytes).
 
 PDF statistics: 91 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 131072)
