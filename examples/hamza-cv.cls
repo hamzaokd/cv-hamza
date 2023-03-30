@@ -12,6 +12,7 @@
 \RequirePackage[quiet]{fontspec}
 \RequirePackage[sfdefault]{ClearSans} % Police
 \usepackage{fontawesome}              % Icons
+\usepackage{fix-cm}               % Fix font size
 \RequirePackage{ragged2e}
 \RequirePackage{parskip}
 \RequirePackage[hidelinks]{hyperref}  % Hyperlink
@@ -152,8 +153,9 @@
       %----------------%
 
       % Set name and title CV
-      \vspace{3mm}
-      {\hspace{0mm}\Huge\color{maincolor}\cvname}
+      \vspace{15mm}
+      {\hspace{0mm} \resizebox{9cm}{!}{\color{maincolor} \cvname}}
+      % {\hspace{0mm}\fontsize{20}\color{maincolor}\cvname}
       
       \vspace{5mm}
 

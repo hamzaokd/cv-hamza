@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.14.0 (MiKTeX 22.1) (format=lualatex 2022.5.14)  25 MAR 2023 03:15
+This is LuaHBTeX, Version 1.14.0 (MiKTeX 22.1) (format=lualatex 2022.5.14)  30 MAR 2023 04:31
  restricted system commands enabled.
  file:line:error style messages enabled.
 **"c:/Users/HAMZA OUKADDI/Documents/git/cv-hamza/cv-hamza/examples/Hamza-Oukadd
@@ -193,6 +193,15 @@ luaotfload | aux : font no 30 (nil) defines no feature for script latn
 luaotfload | aux : font no 30 (nil) defines no feature for script dflt
 ("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/fontawesome/fo
 ntawesomesymbols-xeluatex.tex"))
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/base/fix-cm.st
+y"
+Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
+
+("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/base/ts1enc.de
+f"
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+))
 ("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/ragged2e/ragge
 d2e.sty"
 Package: ragged2e 2021/12/15 v3.1 ragged2e Package
@@ -1244,13 +1253,6 @@ LaTeX Font Info:    ... okay on input line 36.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
 LaTeX Font Info:    ... okay on input line 36.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3
-6.
-
-("C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/tex/latex/base/ts1cmr.fd
-"
-File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-)
 LaTeX Font Info:    ... okay on input line 36.
 LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 36.
 LaTeX Font Info:    ... okay on input line 36.
@@ -1453,8 +1455,6 @@ LaTeX Font Info:    Font shape `TU/ClearSans(0)/m/n' will be
 (Font)              scaled to size 12.0pt on input line 37.
 LaTeX Font Info:    Font shape `TU/ClearSans(0)/m/n' will be
 (Font)              scaled to size 14.4pt on input line 37.
-LaTeX Font Info:    Font shape `TU/ClearSans(0)/m/n' will be
-(Font)              scaled to size 24.88pt on input line 37.
 LaTeX Font Info:    Font shape `TU/ClearSans(0)/b/n' will be
 (Font)              scaled to size 14.4pt on input line 37.
 LaTeX Font Info:    Font shape `TU/ClearSans(0)/b/n' will be
@@ -1503,16 +1503,16 @@ Package rerunfilecheck Info: File `Hamza-Oukaddi_CV_Fr.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 36133 strings out of 477803
+ 36279 strings out of 477803
  156364,1373583 words of node,token memory allocated
  1826 words of node memory still in use:
    31 hlist, 2 vlist, 14 rule, 20 glue, 4 kern, 1 penalty, 2 glyph, 218 attribut
 e, 72 glue_spec, 95 attribute_list, 2 write, 24 pdf_literal, 24 pdf_colorstack n
 odes
-   avail lists: 1:11,2:8535,3:1694,4:381,5:753,6:199,7:11939,8:19,9:1540,10:13,1
-1:858
- 55516 multiletter control sequences out of 65536+600000
- 62 fonts using 6215783 bytes
+   avail lists: 1:10,2:8559,3:1691,4:381,5:720,6:199,7:11468,8:19,9:1546,10:12,1
+1:807
+ 55653 multiletter control sequences out of 65536+600000
+ 61 fonts using 6074815 bytes
  115i,21n,111p,1273b,971s stack positions out of 5000i,500n,10000p,200000b,80000s
 <C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/fonts/truetype/intel/clear
 sans/ClearSans-BoldItalic.ttf><C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiK
@@ -1521,7 +1521,7 @@ AppData/Local/Programs/MiKTeX/fonts/truetype/intel/clearsans/ClearSans-Bold.ttf>
 <C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/fonts/opentype/public/font
 awesome/fontawesome.otf><C:/Users/HAMZA OUKADDI/AppData/Local/Programs/MiKTeX/fo
 nts/truetype/intel/clearsans/ClearSans-Regular.ttf>
-Output written on Hamza-Oukaddi_CV_Fr.pdf (1 page, 103437 bytes).
+Output written on Hamza-Oukaddi_CV_Fr.pdf (1 page, 103274 bytes).
 
 PDF statistics: 91 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 131072)
